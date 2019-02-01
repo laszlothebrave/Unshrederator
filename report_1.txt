@@ -1,0 +1,17 @@
+Odtwarzanie dokumentów zniszczonych fizycznie
+
+1. Cele
+W pierszej fazie zajmiemy się odtwarzeniem dokumentów formatu A4, zawierających tekst drukowany w języku angielskim.
+Zakładamy, że na stronie użyto tylko jednej (znanej nam) czcionki w jednym kolorze i rozmiarze,
+bez podkreśleń, przekreśleń, pogrubień czy kursyw.
+
+2. Narzędzia
+Kontrola wersji:          https://github.com
+Język programowania:      Python
+Biblioteki:               OpenCV, sklearn
+
+3. Metody odtwarzania i weryfikacji
+Pierwszym krokiem będzie stworzenie wirtualnej niszczarki, symulującej działanie fizycznej z okresloną dokładnością.
+   
+
+
